@@ -42,9 +42,11 @@ Je suis actuellement en première année d'informatique parcours Logiciel et Big
   <img src="https://streak-stats.demolab.com?user=Kamardine1&theme=radical" alt="GitHub Streak" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamardine1&theme=radical" alt="WakaTime Stats" />
 </p>
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kamardine1&color=brightgreen" alt="Compteur de vues" />
@@ -53,4 +55,4 @@ Je suis actuellement en première année d'informatique parcours Logiciel et Big
 ---
 
 ### Me contacter :
-- 💼 LinkedIn : [Mon LinkedIn](https://www.linkedin.com/in/kamardine-mirghane-mohamed-516974277/?isSelfProfile=true)
+- LinkedIn : [Mon LinkedIn](https://www.linkedin.com/in/kamardine-mirghane-mohamed-516974277/?isSelfProfile=true)
